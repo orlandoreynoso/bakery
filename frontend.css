@@ -243,19 +243,7 @@ Modify the CSS of the invoice template and the view order in the backend stylesh
 .mod_bakery_pay_h_f img {
 	padding-left: 8px;
 }
-.mod_bakery_agree_tac_f {
-	height: 40px;
-	vertical-align: middle;
-	padding-left: 12px;
-	background-color: #ECECEC;
-	border-color: #CBCBCB;
-	border-width: 1px;
-	border-style: solid;
-}
-.mod_bakery_err_agree_tac_f {
-	border: solid 1px red;
-	background-color: #FFDCD9;
-}
+
 .mod_bakery_cust_msg_f {
 	font-weight: bold;
 }
@@ -263,9 +251,7 @@ Modify the CSS of the invoice template and the view order in the backend stylesh
 	width: 98%;
 	height: 80px;
 }
-.mod_bakery_pay_method_f {
-	font-weight: bold;
-}
+
 .mod_bakery_pay_td_f {
 	font-size: 11px;
 	padding: 3px 12px;

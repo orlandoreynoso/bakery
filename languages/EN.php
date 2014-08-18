@@ -214,7 +214,9 @@ $MOD_BAKERY['TXT_CUST_ZIP'] = 'Zip';
 $MOD_BAKERY['TXT_CUST_PHONE'] = 'Telephone';
 
 // MODUL BAKERY PROCESS PAYMENT
-$MOD_BAKERY['TXT_TAC_AND_PAY_METHOD'] = 'T&eacute;rminos, Condiciones y forma de pago';
+//$MOD_BAKERY['TXT_TAC_AND_PAY_METHOD'] = 'T&eacute;rminos, Condiciones y forma de pago';
+
+$MOD_BAKERY['TXT_TAC_AND_PAY_METHOD'] = 'Continúe con su cotización';
 $MOD_BAKERY['TXT_ENTER_CUST_MSG'] = 'Le invitamos a enviarnos un mensaje';
 //$MOD_BAKERY['TXT_SELECT_PAY_METHOD'] = 'Seleccione una forma de pago';
 $MOD_BAKERY['TXT_SELECT_PAY_METHOD'] = '';
