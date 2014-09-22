@@ -197,8 +197,8 @@ $MOD_BAKERY['TXT_THANK_U_VISIT'] = 'Gracias y tenga un buen d&iacute;a!';
 // MODUL BAKERY CUSTOMER DATA
 $MOD_BAKERY['TXT_CUST_EMAIL'] = 'Direcci&oacute;n de correo electr&oacute;nico';
 $MOD_BAKERY['TXT_CUST_CONFIRM_EMAIL'] = 'Confirmar correo electr&oacute;nico';
-$MOD_BAKERY['TXT_CUST_FIRST_NAME'] = 'Nombre';
-$MOD_BAKERY['TXT_CUST_LAST_NAME'] = 'Empresa o Apellido';
+$MOD_BAKERY['TXT_CUST_FIRST_NAME'] = 'Nombre y apellido';
+$MOD_BAKERY['TXT_CUST_LAST_NAME'] = 'Empresa';
 $MOD_BAKERY['TXT_CUST_TAX_NO'] = 'Nit';
 $MOD_BAKERY['TXT_OPTIONAL'] = 'Opcional';
 $MOD_BAKERY['TXT_CUST_ADDRESS'] = 'Direcci&oacute;n';
