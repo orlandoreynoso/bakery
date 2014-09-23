@@ -222,8 +222,8 @@ if (is_string($payment_status) && is_string($payment_method)) {
 				$tpl->set_file('pending', 'pending.htm');
 				$tpl->set_var(array(
 					'TXT_PENDING'			=>	$MOD_BAKERY[$payment_method]['TXT_PENDING'],
-					'TXT_SHIPMENT'			=>	$MOD_BAKERY[$payment_method]['TXT_SHIPMENT'],
-					'TXT_THANK_U_ORDER'		=>	$MOD_BAKERY['TXT_THANK_U_ORDER']
+					'TXT_SHIPMENT'			=>	$MOD_BAKERY[$payment_method]['TXT_SHIPMENT']
+					// 'TXT_THANK_U_ORDER'		=>	$MOD_BAKERY['TXT_THANK_U_ORDER']
 				));
 				$tpl->pparse('output', 'pending');
 			}

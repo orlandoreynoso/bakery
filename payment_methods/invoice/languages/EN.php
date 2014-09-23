@@ -33,7 +33,7 @@ $MOD_BAKERY[$payment_method]['TXT_ACCOUNT'] = 'Por favor, pagar el saldo adeudad
 $MOD_BAKERY[$payment_method]['TXT_PAY'] = 'Continuar';
 
 // USED BY FILE bakery/view_confirmation.php
-$MOD_BAKERY[$payment_method]['TXT_SUCCESS'] = 'Le enviaremos una confirmaci&oacute;n de su cotizaci&oacute;n.';
+$MOD_BAKERY[$payment_method]['TXT_SUCCESS'] = 'Gracias por su comunicación, le enviaremos su cotización tan pronto sea posible.';
 $MOD_BAKERY[$payment_method]['TXT_SHIPMENT'] = 'Enviaremos su cotizaci&oacute;n tan pronto como sea posible.';
 
 // INVOICE TEMPLATE

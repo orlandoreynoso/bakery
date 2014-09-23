@@ -31,7 +31,7 @@ $MOD_BAKERY[$payment_method]['TXT_ADDITIONAL_CHARGES_2'] = '</b> to be collected
 $MOD_BAKERY[$payment_method]['TXT_PAY'] = 'I will pay cash on delivery';
 
 // USED BY FILE bakery/view.php
-$MOD_BAKERY[$payment_method]['TXT_SUCCESS'] = 'Le enviaremos una confirmaci&oacute;n de pedido.';
+$MOD_BAKERY[$payment_method]['TXT_SUCCESS'] = 'Gracias por su comunicación, le enviaremos su cotización tan pronto sea posible.';
 $MOD_BAKERY[$payment_method]['TXT_SHIPMENT'] = 'Enviaremos su cotizaci&oacute;n tan pronto como sea posible.';
 
 // EMAIL CUSTOMER
